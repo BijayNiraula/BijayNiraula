@@ -43,4 +43,4 @@ My Long-term goal is to secure an Job   in the MERN stack (Mongodb, Express js ,
 ## Contact Me
 Feel free to reach out to me via email at bijayniraula7@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bijay-niraula-067735275/).
 
-Thank you for visiting my GitHub profile. Let's collaborate, create, and make an impact together in the world of technology! 🚀
+Thank you for visiting my GitHub profile 😊.
