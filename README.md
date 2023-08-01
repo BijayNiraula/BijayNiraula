@@ -1,7 +1,9 @@
 # Welcome to My GitHub Profile!
 
 Hello there! 👋 I'm bijay niraula a passionate and self-taught web developer from kailali and currently live Balkumari, Kathmandu. I recently gave my 12th class exams, and at the age of 19, I have already developed a strong foundation in various technologies, including HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, and even some TypeScript.
+
 visit my site : https://bijay-niraula.com.np/
+
 ## About Me
 
 - 🌱 I'm currently on a journey of continuous learning MERN stack web development.
