@@ -40,15 +40,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-
-📢 **Fun Fact**
-
-> Did you know?  
-![Random Tech Fact](https://random-fun-fact-api.herokuapp.com/fact)
-
-*(Refresh the page for a new amazing tech fact!)*
----
-
 🔗 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijay-niraula-067735275/)](https://www.linkedin.com/in/bijay-niraula-067735275/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://bijay-niraula.com.np)
